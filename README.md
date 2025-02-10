@@ -3,7 +3,7 @@ Bleichenbacher Attack
 
 PROJECT OVERVIEW 
 -------------------------
-This project is a proof-of-concept of the Bleichenbacher attack (or "one million requests attack") on RSA cryptosystem. I didn't used modules to compute different calcuations steps.    
+This project is a proof-of-concept of the Bleichenbacher attack (or "one million requests attack") on RSA cryptosystem using PKCS#1 V1.5 padding and oracle. I didn't used modules to compute different calcuations steps.    
 **It is for educational purpose only and must not be used to perpetrate real attacks.**  
 All the implementation is based on the great document : "Chosen Ciphertext Attacks Against Protocols
 Based on the RSA Encryption Standard
